@@ -1,1 +1,4 @@
-# Esimerkki
+numpy
+pandas
+matplotlib
+random
